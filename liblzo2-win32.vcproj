@@ -645,6 +645,14 @@
 				</File>
 			</Filter>
 		</Filter>
+		<File
+			RelativePath=".\liblzo2.lib"
+			>
+		</File>
+		<File
+			RelativePath=".\liblzo2d.lib"
+			>
+		</File>
 	</Files>
 	<Globals>
 	</Globals>
